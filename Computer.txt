@@ -1,0 +1,78 @@
+The transistor size of Intel's "Devil's Canyon" CPUs are:
+14nm
+22nm
+32nm
+24nm
+22nm
+What does NVMe stand for?
+Non-virtual memory express
+New vinyl micro entity
+Non-volatile memory express
+Non-voltage micro electronic
+Non-volatile memory express
+What does the "L" stand for in "DDR3L"?
+Lower voltage
+Longer module
+Longer lifespan
+Lower heatspreader
+Lower voltage
+The AMD Ryzen CPUs are on which platform?
+AM3+
+FM2+
+AM4
+FM1
+AM4
+Which of these GPUs feature HBM (High bandwidth memory)?
+Nvidia Geforce Titan X Pascal
+Nvidia Quadro M6000
+AMD R9 Fury
+AMD RX 480
+AMD R9 Fury
+What is true about the i7 6950x?
+Based on Skylake-E
+Has 10 cores and 10 threads
+Supports 40 PCIe lanes
+Uses the LGA 2011 socket
+Supports 40 PCIe lanes
+Which of these computer form factors are incorrect?
+SFX
+ATX
+ITX
+EEB
+SFX
+Which of these are not PSU efficiency ratings?
+80+ White
+80+ Platinum
+80+ Titanium
+None of the above
+None of the above
+To achieve a stable CPU overclock, you have to:
+Increase core voltage
+Increase BCLK
+Decrease clock speed
+Decrease core voltage
+Increase core voltage
+What is coil whine?
+Fan bearings begin to make a high pitched noise
+Circuit components creating a high pitched noise
+Loud noise emitted from fans due to high RPMs
+Buzzing noise from a hard drive due to vibration
+Circuit components creating a high pitched noise
+What is the purpose of a heatsink?
+To warm up a component
+To lock the CPU in the socket
+To dissipate heat produced from a component
+Improve the airflow of a case
+To dissipate heat produced from a component
+What does the ASIC quality of a GPU determine?
+The power consumption
+The overclocking potential
+The amount of heat it produces
+All of the above
+All of the above
+Static pressure fans perform best as:
+Intake fans at the front of the case
+Exaust fans at the back of the case
+Radiator or heatsink fans to help dissipate heat
+All of the above
+Radiator or heatsink fans to help dissipate heat
